@@ -14,7 +14,7 @@ Java Programming Cheat sheet
 
 ### Platform Independence
 - Build once, run anywhere
-![alt text](images/java-write-once-run-anywhere.png)
+![alt text](http://schoolweb.tdsb.on.ca/Portals/donmillsci/media/cs/images/java-write-once-run-anywhere.png)
 - Java bytecode is the instruction set of the Java virtual machine
 
 
